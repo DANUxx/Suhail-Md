@@ -15,7 +15,7 @@ jobs:
         node-version: [20.x]
 
     steps:
-    - name: Checkout Suhail-Md repository
+    - name: Checout Suhail-Md repository
       uses: actions/checkout@v3
 
     - name: Set up Node.js
